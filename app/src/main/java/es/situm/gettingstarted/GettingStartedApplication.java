@@ -10,6 +10,5 @@ public class GettingStartedApplication extends MultiDexApplication {
         super.onCreate();
         //You must initialize the Situm SDK before using it
         SitumSdk.init(this);
-
     }
 }
